@@ -1,7 +1,7 @@
 # Explore US Bikeshare Data
 ###### **Udacity Data Analyst Degree - Project**
 ## Overview
-In this project, I will make use of Python to explore data related to bike-sharing systems for three major cities in the United States - Chicago, New York, and Washington. I will write code to import data and answer interesting questions about it by calculating descriptive statistics. I will also write a script that takes initial input to create an interactive experience in the device to present these stats.
+In this project, I used Python to explore data related to bike-sharing systems for three major cities in the United States - Chicago, New York, and Washington. I added the code needed to import data and answer interesting questions about it by calculating descriptive statistics. I also added a script that takes initial input to create an interactive experience in the device to present these stats.
 
 ## What Software Do I Need?
 
